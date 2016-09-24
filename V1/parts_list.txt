@@ -1,0 +1,22 @@
+In this project we will design and build a Milliohm Meter which is capable of measuring low resistance from 2 ohm to 0.1 milliohm with an accuracy of 0.1% or better. The unit will be easy to build and low cost.
+Below are the links to the circuit diagram and the PCB artwork and layout:
+http://www.scullcom.com/Scullcom_Mill...
+http://www.scullcom.com/Milliohm_PCB_...
+Parts List Below:
+1 x LT3092 (SOT-223 case format) Programmable Current Source.
+1 x LT1634 - 1.25v version Precision Shunt Regulator (SOIC Case format).
+1 x INA106 - Precision Diff. Amp. (SOIC Case Format).
+MAX680 - Dual Voltage Converter (DIL format).
+LM2940 - 5 volt Low Drop Regulator (TO-220 format)
+1 x 8 pin DIL socket.
+1 x small push button on/off latching switch.
+1 x 220uF 16 volt capacitor.
+4 x 4.7uF tantalum capacitors.
+8 x 100 ohm 0.1% resistors.
+1 x 56 ohm 0.1% resistor.
+1 x 10 ohm 0.1% resistor.
+1 x 499 Kohm 0.1% resistor.
+1 x 100 ohm 15 turn horizontal preset.
+1 x 100K 15 turn horizontal preset.
+6 x 4mm banana sockets
+1 x battery holder for 6 x AA batteries.
